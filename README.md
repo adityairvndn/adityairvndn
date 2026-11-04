@@ -37,7 +37,7 @@ Law firm website for Sahertian &amp; Associates in Jakarta, built with WordPress
 <td width="50%" valign="top">
 <a href="https://irvandani.pages.dev/projects/borneo-media/"><img src="https://irvandani.pages.dev/og/projects/borneo-media/borneo-media-01-featured.jpg" alt="Borneo Media website" width="100%"></a>
 <p><b><a href="https://irvandani.pages.dev/projects/borneo-media/">Borneo Media</a></b> · Digital Studio Website<br>
-Website for Borneo Media, a hyperlocal digital studio in South Kalimantan, built with WordPress &amp; Elementor Pro around its six services, case studies and team.
+Website for Borneo Media, a hyperlocal digital studio in South Kalimantan, built with WordPress &amp; Elementor Pro around six services, case studies and its team.
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ Website for Borneo Media, a hyperlocal digital studio in South Kalimantan, built
 <td width="50%" valign="top">
 <a href="https://irvandani.pages.dev/projects/robbani/"><img src="https://irvandani.pages.dev/og/projects/robbani/robbani-01-featured.jpg" alt="Sekolah Robbani website" width="100%"></a>
 <p><b><a href="https://irvandani.pages.dev/projects/robbani/">Sekolah Robbani</a></b> · School Website<br>
-School website for SIT Robbani Banjarbaru and its seven units, built with WordPress &amp; Elementor Pro. It reports load time falling from 7s to 1.8s and organic traffic rising 42% in 2 months.
+School website for SIT Robbani Banjarbaru and its seven units, built with WordPress &amp; Elementor Pro. Load time 7s → 1.8s, organic traffic +42% in 2 months.
 </p>
 </td>
 <td width="50%" valign="top">
@@ -59,7 +59,7 @@ Company website for Banjar Digital, a South Kalimantan digital marketing agency,
 <td width="50%" valign="top">
 <a href="https://irvandani.pages.dev/projects/gekrafs-hst/"><img src="https://irvandani.pages.dev/og/projects/gekrafs-hst/gekrafs-hst-01-featured.jpg" alt="Gekrafs HST website" width="100%"></a>
 <p><b><a href="https://irvandani.pages.dev/projects/gekrafs-hst/">Gekrafs HST</a></b> · Organization Landing Page<br>
-One-page website for Gekrafs Hulu Sungai Tengah, a creative economy organization, built with WordPress &amp; Elementor Pro, with member registration.
+One-page website for Gekrafs Hulu Sungai Tengah, a creative economy organization, built with WordPress &amp; Elementor Pro, with a member registration form.
 </p>
 </td>
 <td width="50%" valign="middle" align="center">
